@@ -1,0 +1,22 @@
+{
+  "name": "node-koa",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thunderqin/centOs.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "qinguolei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thunderqin/centOs/issues"
+  },
+  "homepage": "https://github.com/thunderqin/centOs#readme"
+}
